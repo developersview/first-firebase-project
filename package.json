@@ -1,0 +1,23 @@
+{
+  "name": "first-firebase-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developersview/first-firebase-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developersview/first-firebase-project/issues"
+  },
+  "homepage": "https://github.com/developersview/first-firebase-project#readme",
+  "dependencies": {
+    "firebase": "^9.8.4"
+  }
+}
